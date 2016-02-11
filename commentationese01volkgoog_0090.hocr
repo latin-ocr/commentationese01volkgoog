@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./commentationese01volkgoog_0090.png"; bbox 0 0 3332 5236; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 368 1812 1257 1938">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 368 1812 1257 1938">
+     <span class='ocr_line' id='line_1_1' title="bbox 368 1812 1257 1938; baseline 0.003 -4"><span class='ocrx_word' id='word_1_1' title='bbox 368 1812 918 1938; x_wconf 74' lang='lat' dir='ltr'><strong>commno</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 961 1816 1257 1938; x_wconf 75' lang='lat' dir='ltr'><strong>TERTIA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 187 2155 1424 2236">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 187 2155 1424 2236">
+     <span class='ocr_line' id='line_1_2' title="bbox 187 2155 1424 2236; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 187 2159 250 2236; x_wconf 78' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 277 2155 502 2235; x_wconf 79' lang='lat' dir='ltr'>ODYSSEAE</span> <span class='ocrx_word' id='word_1_5' title='bbox 528 2155 787 2235; x_wconf 79' lang='lat' dir='ltr'><strong>RHAPSODIIS</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 816 2159 859 2236; x_wconf 93' lang='grc' dir='ltr'><strong>Ο.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 882 2161 933 2232; x_wconf 90' lang='grc' dir='ltr'><strong>Π.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 954 2161 998 2233; x_wconf 89' lang='grc' dir='ltr'><strong>Ρ.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1020 2163 1069 2234; x_wconf 89' lang='grc' dir='ltr'><strong>Σ.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1094 2162 1135 2234; x_wconf 84' lang='grc' dir='ltr'><strong>Τ.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1156 2159 1424 2236; x_wconf 79' lang='lat' dir='ltr'><strong>DISPUTATIO.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1670 5236">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1670 5236">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1670 5236; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1670 5236; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
